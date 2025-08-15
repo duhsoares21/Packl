@@ -399,3 +399,9 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+FodyWeavers.xml
+App.config
+packages.config
+.gitignore
+.gitattributes
+/Properties
